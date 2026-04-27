@@ -6,3 +6,4 @@ update README
 add example usage
 small fix
 improve readability
+add comments

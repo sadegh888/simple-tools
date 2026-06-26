@@ -2,7 +2,7 @@
 initial setup
 add tool description
 create file structure
-update README
+update _ README
 add example usage
 small fix
 improve readability
